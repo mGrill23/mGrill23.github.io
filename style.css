@@ -1,0 +1,8 @@
+body{
+    background-color: aqua
+}
+
+div{
+    float: left;
+    align-self: auto;
+}
